@@ -1,0 +1,18 @@
+- type: startingGear
+  id: CentralOfficerGear
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitCasualCentcom
+    shoes: ClothingShoesBootsRyuzo
+    gloves: ClothingHandsGlovesRyuzoGauntlets
+    head: ClothingHeadHatCentcomcap
+    back: ClothingBackpackMessengerCentcomm
+    neck: ClothingNeckMantleRyuzo
+    outerClothing: ClothingOuterCoatRyuzo
+    ears: ClothingHeadsetAltCentCom
+    pocket1: WeaponTetherGunAdmin
+    mask: FoodSnackLollypopCentcomm
+    belt: BoxFolderCentComClipboard
+  storage:
+    back:
+    - DeterrentCaseFilled
+    - WeaponPistolCentcommAgent

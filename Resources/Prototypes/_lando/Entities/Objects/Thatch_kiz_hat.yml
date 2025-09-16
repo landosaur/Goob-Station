@@ -1,0 +1,30 @@
+- type: entity
+  parent: [ClothingHeadBase, BaseFoldable]
+  id: ClothingHeadHatUshanka1
+  name: embroidered ushanka
+  description: "Definitely not the villain of family meal. Gold embroidery along the sides sign the name 'Thatch Kiz'. "
+  components:
+  - type: Clothing
+    sprite: /Uploaded/Prototypes/polarsuhanka.rsi
+  - type: Appearance
+  - type: AddAccentClothing
+    accent: RussianAccent
+  - type: Foldable
+    canFoldInsideContainer: true
+  - type: FoldableClothing
+    foldedEquippedPrefix: up
+    foldedHeldPrefix: up
+  - type: Sprite
+    sprite: /Uploaded/Prototypes/polarsuhanka.rsi
+    layers:
+    - state: icon
+      map: [ "unfoldedLayer" ]
+    - state: icon-up
+      map: ["foldedLayer"]
+      visible: false
+  - type: Tag # Goobstation
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+    - DroneUsable
+    - Ushanka
