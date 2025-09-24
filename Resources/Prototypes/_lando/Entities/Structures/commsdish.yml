@@ -20,7 +20,7 @@
         layer:
         - MobMask
   - type: Sprite
-    sprite: _RMC14/Objects/Scructures/sensor_tower.rsi
+    sprite: _RMC14/Scructures/sensor_tower.rsi
     layers:
     - state: sensor_unshaded
       map: [ "base" ]

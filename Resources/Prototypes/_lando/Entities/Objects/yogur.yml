@@ -1,6 +1,6 @@
 - type: entity
   parent: [DrinkBottleVisualsOpenable, DrinkBottlePlasticBaseFull]
-  id: DrinkCoconutWaterCarton
+  id: DrinkYogurtCarton
   name: NT brand yogurt
   description: It's a carton of yogurt what more could you want?
   components:
