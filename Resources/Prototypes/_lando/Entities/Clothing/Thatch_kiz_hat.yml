@@ -5,7 +5,7 @@
   description: "Definitely not the villain of family meal. Gold embroidery along the sides sign the name 'Thatch Kiz'. "
   components:
   - type: Clothing
-    sprite: /Uploaded/Prototypes/polarsuhanka.rsi
+    sprite: /_lando/Clothing/Hats/polarsuhanka.rsi
   - type: Appearance
   - type: AddAccentClothing
     accent: RussianAccent
@@ -15,7 +15,7 @@
     foldedEquippedPrefix: up
     foldedHeldPrefix: up
   - type: Sprite
-    sprite: /Uploaded/Prototypes/polarsuhanka.rsi
+    sprite: /_lando/Clothing/Hats/polarsuhanka.rsi
     layers:
     - state: icon
       map: [ "unfoldedLayer" ]
